@@ -1,3 +1,5 @@
+# This file is a part of NEO-WZML (github.com/irisXDR/NEO-WZML)
+
 asyncio
 aiofiles
 aiohttp
@@ -6,7 +8,6 @@ anytree
 apscheduler
 aioaria2
 aioqbt
-cinemagoer
 cloudscraper
 dnspython
 fastapi
@@ -17,7 +18,7 @@ google-auth-oauthlib
 gunicorn
 httpx
 langcodes
-language_data
+language-data
 jinja2
 lxml
 motor
@@ -27,7 +28,7 @@ pillow
 psutil
 pycountry
 pymongo
-pyrofork==2.2.11
+pyroblack
 python-magic
 pytz
 qbittorrent-api
@@ -35,7 +36,7 @@ requests
 speedtest-cli
 telegraph
 tenacity
-tgcrypto
+tgcrypto-pyrofork
 urllib3
 uvicorn
 uvloop==0.21.0
